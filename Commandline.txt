@@ -1,6 +1,0 @@
-CD\ - Skip to top of directory
-pip install #package - installs package
-cd - Change directory
-mkdir - Make directory
-venv\Scripts\activate - starts virtual environment
-deactivate - ends virtual environment
